@@ -1,0 +1,6 @@
+{
+  "name": "ParaPhrase Pro",
+  "description": "Expert-level AI paraphrasing engine featuring 12 rewrite modes, tone customization, keyword preservation, interactive diff comparison, and structural originality analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
